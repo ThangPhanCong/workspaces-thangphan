@@ -1,0 +1,21 @@
+{
+  "name": "react-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "node-stopwords-filter": "^0.0.1",
+    "node-vntokenizer": "^0.0.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17",
+    "react-toastify": "^2.2.1",
+    "react-toastr": "^3.0.0",
+    "vietnamese-stopwords": "^0.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

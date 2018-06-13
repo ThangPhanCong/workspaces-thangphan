@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+.nav-bar {
+    background-color: #FF3800;
+    height: 119px;
+    color: white;
+    font-size: 15px;
+}
+
+.header {
+    display: flex;
+}
+
+.social-network {
+    flex: 1;
+}
+
+.search-bar {
+    display: flex;
+}
+.search-bar .logo {
+    padding-left: 40px;
+    position: relative;
+    top: -11px;
+}
+
+.input-search {
+    margin: 0 auto;
+}
+.input-search input {
+    width: 831px;
+    height: 40px;
+    font-size: 14px;
+}
+
+.input-search button {
+    height: 35px;
+    background-color: #FF3800;
+    width: 70px;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    right: 77px;
+    font-size: 19px;
+}
+.icon-shopping {
+    padding-right: 40px;
+    padding-top: 6px;
+}
+.type-product ul li {
+  font-size: 13.2px;
+  position: relative;
+  right: 46px;
+  bottom: 14px;
+}
+
+ul li {
+    display: inline-block;
+    padding-left: 5px;
+}
